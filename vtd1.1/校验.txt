@@ -1,0 +1,25 @@
+MD5,752264C9A99C05B83A6FAF9368EA95E5
+SHA1,3BCBB46C40203B6944E61A9AEE9BEB802CA9382D
+File Description,脆弱目标检查工具V1.1社区版本
+File Version,1.1.0.0
+Creation time,11:11:2019 - 08:48:47
+Access time,11:11:2019 - 08:48:47
+Modification Time,11:11:2019 - 08:45:10
+CPU,32-bit
+Size (bytes),1045504
+Type,Executable
+SubSystem,Windows GUI
+
+
+MD5,285BE44EBCAA0A24DD8B028CA24DDDF2
+SHA1,9FF19B518CDDB5E103AFAE97D6CC5E1F56884FD5
+File Description,SkinSharp GUI 破解版
+File Version,1, 0, 6, 6
+Creation time,11:11:2019 - 08:48:43
+Access time,11:11:2019 - 08:48:43
+Modification Time,07:04:2018 - 22:51:06
+CPU,32-bit
+Size (bytes),88576
+Type,System Image
+SubSystem,Windows GUI
+
